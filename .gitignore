@@ -1,0 +1,15 @@
+# Flutter/Dart/Pub related
+**/build/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+flutter/
+pubspec.lock
+
+# Visual Studio Code
+.vscode/
+
+# IDE files
+.idea/
+

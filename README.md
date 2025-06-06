@@ -92,7 +92,13 @@ lib/
 
 ## 🧪 Testing
 
-Run tests using the following commands:
+Run tests after fetching dependencies:
+
+```bash
+flutter pub get
+```
+
+Then run the tests with:
 
 ```bash
 # Run all tests
